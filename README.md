@@ -30,10 +30,10 @@ I have coded custom login / registration instead of using builtin laravel authen
 
 ### Screenshots
 #### Login
-![Login](docs/Login.png)
+![Login](docs/Login.PNG)
 
 #### Register
-![Register](docs/Register.png)
+![Register](docs/Register.PNG)
 
 #### Dashboard
-![Dashboard](docs/Dashboard.png)
+![Dashboard](docs/Dashboard.PNG)
